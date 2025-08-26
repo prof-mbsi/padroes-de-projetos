@@ -6,7 +6,7 @@
 1. 29/jul: ~~Revisão de associação entre objetos e arrays de objetos.~~
 2. 05/ago: ~~Revisão de herança e polimorfismo.~~
 3. 12/ago: ~~Revisão de interfaces e tratamento de erros.~~
-4. 19/ago: Injeção de dependências.
+4. 19/ago: ~~Injeção de dependências.~~
 5. 26/ago: 5 princípios SOLID.
 6. 02/set: Singleton.
 7. 09/set: **_A2-1: Lista de exercícios (2,0)_**
