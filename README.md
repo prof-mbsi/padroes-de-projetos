@@ -10,11 +10,11 @@
 5. 26/ago: ~~5 princípios SOLID.~~
 6. 02/set: ~~Singleton.~~
 7. 09/set: ~~**_A2-1: Lista de exercícios (2,0)_**~~
-8. 16/set: Factory method.
-9. 23/set: Semana acadêmica.
-10. 30/set: Abstract Factory.
-11. 07/out: Observer.
-12. 14/out: Exercícios para fixação de conteúdo.
+8. 16/set: ~~Factory method.~~
+9. 23/set: ~~Semana acadêmica.~~
+10. 30/set: ~~Abstract Factory.~~
+11. 07/out: ~~Observer.~~
+12. 14/out: ~~Exercícios para fixação de conteúdo.~~
 13. 21/out: Decorator.
 14. 28/out: Prototype.
 15. 04/nov: Exercícios para fixação de conteúdo.
