@@ -15,7 +15,7 @@
 10. 30/set: ~~Abstract Factory.~~
 11. 07/out: ~~Observer.~~
 12. 14/out: ~~Exercícios para fixação de conteúdo.~~
-13. 21/out: Decorator.
+13. 21/out: ~~Decorator.~~
 14. 28/out: Prototype.
 15. 04/nov: Exercícios para fixação de conteúdo.
 16. 11/nov: **_A2-2: Defesa da implementação proposta (3,0)_**
